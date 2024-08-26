@@ -1,0 +1,4 @@
+repository "EY Asset System@kris_enteryes@cloud"
+  path "/"
+    br "/main"
+    co "/main"
