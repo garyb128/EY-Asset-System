@@ -10,8 +10,8 @@ using UnityEngine;
 public class SheetReader
 {
     //Credentials and spreadsheet ID
-    static private String spreadsheetId = "1v0P0dl_ClKxOELuHHl0_1FmbjfI4wAITmIv1BZa6NZg";
-    static private String jsonPath = "/StreamingAssets/key.json";
+    static private String spreadsheetId = "GOOGLE-SPREADSHEET-ID-HERE";
+    static private String jsonPath = "GOOGLE-KEY-PATH-HERE";
 
     static private SheetsService service;
 
