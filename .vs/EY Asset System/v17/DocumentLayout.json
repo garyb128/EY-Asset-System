@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\assets\\ey system files\\eysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|solutionrelative:assets\\ey system files\\eysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|c:\\users\\gbran\\unity projects\\ey asset system\\assets\\g_scripts\\g_object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|solutionrelative:assets\\g_scripts\\g_object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\assets\\g_scripts\\g_backgroundchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E425096B-7DE3-5986-BBC1-0AC24F86DA9D}|Assembly-CSharp.csproj|solutionrelative:assets\\g_scripts\\g_backgroundchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "G_BackgroundChanger.cs",
+              "DocumentMoniker": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\G_Scripts\\G_BackgroundChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\G_Scripts\\G_BackgroundChanger.cs",
+              "ToolTip": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\G_Scripts\\G_BackgroundChanger.cs",
+              "RelativeToolTip": "Assets\\G_Scripts\\G_BackgroundChanger.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:46:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "G_Object.cs",
+              "DocumentMoniker": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\G_Scripts\\G_Object.cs",
+              "RelativeDocumentMoniker": "Assets\\G_Scripts\\G_Object.cs",
+              "ToolTip": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\G_Scripts\\G_Object.cs",
+              "RelativeToolTip": "Assets\\G_Scripts\\G_Object.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:46:54.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EYSYSTEM.cs",
+              "DocumentMoniker": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\EY System Files\\EYSYSTEM.cs",
+              "RelativeDocumentMoniker": "Assets\\EY System Files\\EYSYSTEM.cs",
+              "ToolTip": "C:\\Users\\gbran\\UNITY PROJECTS\\EY Asset System\\Assets\\EY System Files\\EYSYSTEM.cs",
+              "RelativeToolTip": "Assets\\EY System Files\\EYSYSTEM.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAGkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:46:54.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
